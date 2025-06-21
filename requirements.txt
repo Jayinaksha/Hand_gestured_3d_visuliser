@@ -1,0 +1,8 @@
+mediapipe==0.10.21
+opencv-python==4.9.0.80
+ursina==7.0.0
+pygame==2.5.2
+numpy==1.26.4
+Pillow==10.3.0
+scipy
+filterpy
