@@ -1,7 +1,7 @@
 # Hand_gestured_3d_visuliser
 The repo is dedicated to making of an handgestured 3d cad designer and model simulator all by handgestures and a camera.
 
-# Iron Man Hand Gesture 3D CAD System
+# Hand Gesture 3D CAD System
 
 A sophisticated hand gesture-controlled 3D creation system inspired by Tony Stark's holographic interface. Build, manipulate, and interact with 3D objects using just your hands and a webcam.
 
