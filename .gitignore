@@ -1,0 +1,12 @@
+# Large files and directories
+.git.backup/
+*.model
+*.weights
+*.h5
+*.pack
+# Add any other large files or patterns here
+**/venv/
+__pycache__/
+*.pyc
+venv/
+*/venv/
